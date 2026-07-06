@@ -1,7 +1,7 @@
 let photos=[
-    "banner1.jpg",
-    "banner2.jpg",
-    "banner3.jpg"
+     "IMAGES/banner1.jpg">
+     "IMAGES/banner2.jpg">
+     "IMAGES/banner3.jpg">
     ];
     
     let i=0;
